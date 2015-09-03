@@ -29,8 +29,8 @@ This script make it look cleaner and organized :)
 -------
 TO-DOs:
 -------
-#3: Find missing episodes in every season and also missing seasons
-#4: Do assignments -_-
-#5: Organize a list of episodes into different season (Long shot!)
+3: Find missing episodes in every season and also missing seasons
+4: Do assignments -_-
+5: Organize a list of episodes into different season (Long shot!)
 
 Would love if you could contribute to this project. :D
