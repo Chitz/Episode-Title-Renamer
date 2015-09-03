@@ -15,7 +15,7 @@ To test, I have hardcoded the URL of the desired Wikipedia Page (https://en.wiki
 
 Optionally we could pass the URL and the path to parent folder as arguements. [TO-DO #1]
 
-3. It will prompt to confirm the rename for individual files (episodes of every season available). [TO-Do #2 - Improve this!]. Type "y" or "yes" or "ye", it will go ahead with the rename.
+3. It will prompt to confirm the rename for individual files (episodes of every season available). [TO-DO #2 - Improve this!]. Type "y" or "yes" or "ye", it will go ahead with the rename.
 
 4. Done!
 
